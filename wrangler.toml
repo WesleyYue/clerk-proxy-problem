@@ -4,7 +4,7 @@ compatibility_date = "2023-12-06"
 
 routes = [
     { pattern = "double.bot/__clerk/*", zone_name = "double.bot" },
-] # Replace this with your own domain
+] # [REPLACE]
 
 [dev]
 port = 1111
